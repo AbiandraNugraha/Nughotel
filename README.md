@@ -1,2 +1,2 @@
-There is the website and the android APK.
-The app is frequently inactive,so activate it in https://replit.com/@abiandranugraha/NughotelManager
+There is the website and the shortened one.
+The real link is in the Website file,but because it's too long to remember,i shortened it to tinyurl.com/nughotel.
